@@ -1,0 +1,42 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+  }
+  
+  #request {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #gettingPokemonName {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #SendingRequest {
+    background-color: #6495ed;
+    color: #fff;
+    border: none;
+    padding: 13px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #pokemon {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #pokemonName {
+    font-size: 24px;
+    font-weight: bold;
+    color: #6495ed;
+  }
+  
+  #pokemonImg {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
